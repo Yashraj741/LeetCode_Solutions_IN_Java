@@ -1,3 +1,4 @@
+// Save the file with the name of solution.java to run in localdevice
 class Solution {
     public boolean isPalindrome(int x) {
         if(x<0) return false;
